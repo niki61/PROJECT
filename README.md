@@ -1,1 +1,1 @@
-# PROJECT
+The encryption and decryption file provides a graphical user interface (GUI) for encrypting and decrypting text using a password. Users input text and a password, then click "ENCRYPT" to encode the text or "DECRYPT" to decode it. It enhances data security by protecting sensitive information.
